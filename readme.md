@@ -1,5 +1,5 @@
 # **FAIZAN PORTFOLIO**:
-This is my personal portfolio in making which includes all the ***LIVE PROJECTS*** made by me along with its ***SOURCE CODE***.
+This is my personal portfolio which includes all the ***LIVE PROJECTS*** made by me along with its ***SOURCE CODE***.
 
    
 
